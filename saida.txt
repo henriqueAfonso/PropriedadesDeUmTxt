@@ -1,0 +1,5 @@
+Arquivo:           c:\users\henrique\desktop\arquivo.txt
+Vogais:            1097
+Consoantes:        1544
+Espaços em branco: 456
+-------------------------------------
